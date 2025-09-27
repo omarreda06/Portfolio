@@ -1,0 +1,213 @@
+--------------ABOUT-----------------
+
+<div class="col-md-12">
+    <div class="divider"></div>
+    <!-- /divider -->
+</div>
+
+<div class="col-md-12">
+    <h2 class="section-heading" style="color:#f2c44c"><span>3/</span>Awards</h2>
+    <!-- /section-heading -->
+</div>
+<div class="col-xl-5 col-lg-6">
+    <div class="awards-item">
+        <span>3</span>
+        <p>Awwwards <i>- Site of the day</i></p>
+    </div>
+    <div class="awards-item">
+        <span>2</span>
+        <p>FWA <i>- FWA of the Day</i></p>
+    </div>
+</div>
+<div class="col-xl-5 col-lg-6">
+    <div class="awards-item">
+        <span>1</span>
+        <p>Awwwards <i>- Site of the week</i></p>
+    </div>
+    <div class="awards-item">
+        <span>1</span>
+        <p>CSSDA <i>- Website Of The Day</i></p>
+    </div>
+</div>
+
+<div class="col-md-12">
+    <div class="divider"></div>
+</div>
+
+<div class="col-md-12">
+    <h2 class="section-heading" style="color:#5faac8"><span>4/</span>Testimonials</h2>
+</div>
+<div class="col-md-12">
+    <div class="owl-carousel testimonials-carousel">
+        <div class="testimonial-item">
+            <div class="image-info">
+                <img src="img/testimonials/client_01.jpg" alt="!">
+            </div>
+            <div class="review-info">
+                <p>Laboriosam hic impedit repellat itaque nam voluptatem maxime...</p>
+                <h5>Alex Bara</h5>
+                <span>CEO at Alex Studio</span>
+            </div>
+        </div>
+        <div class="testimonial-item">
+            <div class="image-info">
+                <img src="img/testimonials/client_02.jpg" alt="!">
+            </div>
+            <div class="review-info">
+                <p>Doloremque facilis beatae incidunt doloribus minus cum!...</p>
+                <h5>John Smith</h5>
+                <span>CEO at Agency of John</span>
+            </div>
+        </div>
+        <div class="testimonial-item">
+            <div class="image-info">
+                <img src="img/testimonials/client_03.jpg" alt="!">
+            </div>
+            <div class="review-info">
+                <p>Reiciendis voluptatibus commodi cum quibusdam dolores omnis ex...</p>
+                <h5>Murad Takla</h5>
+                <span>CEO at Takla Studio</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-12">
+    <div class="divider"></div>
+</div>
+
+<div class="col-md-12">
+    <h2 class="section-heading" style="color:#33d06c"><span>5/</span>Clients</h2>
+</div>
+<div class="col-md-12">
+    <div class="owl-carousel clients-carousel">
+        <img src="img/brand/brand-1.png" alt="">
+        <img src="img/brand/brand-2.png" alt="">
+        <img src="img/brand/brand-3.png" alt="">
+        <img src="img/brand/brand-4.png" alt="">
+        <img src="img/brand/brand-5.png" alt="">
+        <img src="img/brand/brand-6.png" alt="">
+    </div>
+</div>
+
+---------------resume--------------------
+
+    <div class="page-wrapper">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-10">
+                    <div class="page-content">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <h2 class="section-heading" style="color:#33d06c"><span>1/</span>Experience</h2>
+                                <!-- /section-heading -->
+                                <div class="experience-info">
+                                    <div class="experience-info-item">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <h4 class="experience-designation">Front-end Developer</h4>
+                                                <p>WeLab <span>|</span> Remote</p>
+
+                                                <p class="status">Full Time</p>
+                                                <p>Jan 2019 - Present</p>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <div class="experience-company-info">
+                                                    <h5>About Company</h5>
+                                                    <p>WeLab is a consectetur adipisicing elit. Perferen abnostrum rerum ea velit, deserunt sunt dicta inventore neque, reiciendis ignissimos adipi delectus!</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /experience-info-item -->
+                                    <div class="experience-info-item">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <h4 class="experience-designation">UI/UX Designer</h4>
+                                                <p>Alex Studio</p>
+
+                                                <p class="status">Full Time</p>
+                                                <p>Jan 17 - Dec 2018</p>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <div class="experience-company-info">
+                                                    <h5>About Company</h5>
+                                                    <p>Alex Studio is consectetur adipisicing elit. Perferen totam abnostrum rerum ea velit, deserunt sunt dicta inventore neque, reiciendis ignissimos adipi delectus!</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /experience-info-item -->
+                                    <div class="experience-info-item">
+                                        <div class="row">
+                                            <div class="col-md-4">
+                                                <h4 class="experience-designation">UI/UX Designer</h4>
+                                                <p>Alex Studio</p>
+
+                                                <p class="status">Intern</p>
+                                                <p>Feb 16 - Dec 2016</p>
+                                            </div>
+                                            <div class="col-md-8">
+                                                <div class="experience-company-info">
+                                                    <h5>About Company</h5>
+                                                    <p>Alex Studio is a consectetur adipisicing elit. Perferen totam abnostrum rerum ea velit, deserunt sunt dicta inventore neque, reiciendis ignissimos adipi delectus!</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- /experience-info-item -->
+                                </div>
+                                <!-- /experience-info -->
+                            </div>
+
+------------------------intersets-------------------------
+
+                            <div class="col-md-12">
+                                <div class="divider"></div>
+                                <!-- /divider -->
+                            </div>
+
+                            <div class="col-md-12">
+                                <h2 class="section-heading" style="color:#f2c44c"><span>4/</span>Interests</h2>
+                                <!-- /section-heading -->
+                                <div class="interestes">
+                                    <div class="row">
+                                        <div class="col">
+                                            <div class="interests-item">
+                                                <span class="lni-camera"></span>
+                                                <p>Photography</p>
+                                            </div>
+                                            <!-- /interests-item -->
+                                        </div>
+                                        <div class="col">
+                                            <div class="interests-item">
+                                                <span class="lni-music"></span>
+                                                <p>Music</p>
+                                            </div>
+                                            <!-- /interests-item -->
+                                        </div>
+                                        <div class="col">
+                                            <div class="interests-item">
+                                                <span class="lni-game"></span>
+                                                <p>Gaming</p>
+                                            </div>
+                                            <!-- /interests-item -->
+                                        </div>
+                                        <div class="col">
+                                            <div class="interests-item">
+                                                <span class="lni-plane"></span>
+                                                <p>Travel</p>
+                                            </div>
+                                            <!-- /interests-item -->
+                                        </div>
+                                        <div class="col">
+                                            <div class="interests-item">
+                                                <span class="lni-bi-cycle"></span>
+                                                <p>Cycling</p>
+                                            </div>
+                                            <!-- /interests-item -->
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- /interestes -->
+                            </div>
